@@ -1,0 +1,19 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+.gemini/
+.antigravity/
+/tmp/
+*.log
+
+# XAMPP/PHP specific (if any)
+error_log
